@@ -1,3 +1,11 @@
+
+ONLY FOW EDU USE.
+They dondt take any reponsibility, if it works.
+Please use in closed LAN
+
+
+
+
 #!/usr/bin/perl
 
 ######################################################################################################################
